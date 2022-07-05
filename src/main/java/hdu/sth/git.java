@@ -19,5 +19,6 @@ public class git {
 
         //我又修改了一下
         System.out.println(new Date());
+        System.out.println("pull test");
     }
 }
