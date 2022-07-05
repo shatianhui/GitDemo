@@ -8,7 +8,7 @@ package hdu.sth;
  */
 public class git {
     public static void main(String[] args) {
-        System.out.println("hello java");
+        //在master分支中删除第一行
         System.out.println("hello java  222");
         System.out.println("hello java 333");
         System.out.println("在 hot_fix上修复了一点内容");
