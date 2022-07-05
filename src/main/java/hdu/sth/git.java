@@ -11,5 +11,7 @@ public class git {
         System.out.println("hello java");
         System.out.println("hello java  222");
         System.out.println("hello java 333");
+        System.out.println("在 hot_fix上修复了一点内容");
+        System.out.println("jjnaxcjknk");
     }
 }
