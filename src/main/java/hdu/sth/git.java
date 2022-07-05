@@ -1,5 +1,7 @@
 package hdu.sth;
 
+import java.util.Date;
+
 /**
  * description: git <br>
  * date: 2022/7/5 19:36 <br>
@@ -14,5 +16,8 @@ public class git {
         //删除了最后一行
         System.out.println("jkbdcsabckjjhdjjclajjcj");
         System.out.println("hudcajhdkchilahdcoiahdviahvh");
+
+        //我又修改了一下
+        System.out.println(new Date());
     }
 }
